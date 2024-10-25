@@ -1,1046 +1,1038 @@
 ﻿1
-00:00:01,700 --> 00:00:06,990
+00:00:02,700 --> 00:00:07,990
 So tonight I'll sing a song to all my friends
 
 2
-00:00:07,120 --> 00:00:11,830
+00:00:08,120 --> 00:00:12,830
 Also to those we won't be seeing again
 
 3
-00:00:10,330 --> 00:00:16,670
+00:00:11,330 --> 00:00:17,670
 The Count of Monte Cristo
 
 4
-00:00:12,210 --> 00:00:16,340
+00:00:13,210 --> 00:00:17,340
 To those I knew and those I still adore
 
 5
-00:00:16,340 --> 00:00:19,050
+00:00:17,340 --> 00:00:20,050
 And I want to see once more
 
 6
-00:00:19,050 --> 00:00:25,890
+00:00:20,050 --> 00:00:26,890
 I just pray that you will love me and trust me
 
 7
-00:00:26,140 --> 00:00:30,730
+00:00:27,140 --> 00:00:31,730
 Laugh with me and cry with me
 
 8
-00:00:31,100 --> 00:00:35,770
+00:00:32,100 --> 00:00:36,770
 Spend those silent times with me
 
 9
-00:00:36,900 --> 00:00:39,900
+00:00:37,900 --> 00:00:40,900
 Love me ever more
 
 10
-00:00:41,400 --> 00:00:44,780
+00:00:42,400 --> 00:00:45,780
 Love me ever more
 
 11
-00:00:47,280 --> 00:00:51,370
+00:00:48,280 --> 00:00:52,370
 You and I were lovers
 
 12
-00:00:51,370 --> 00:00:55,330
+00:00:52,370 --> 00:00:56,330
 Our dreams were not soured by life
 
 13
-00:00:56,540 --> 00:01:01,090
+00:00:57,540 --> 00:01:02,090
 And then my friends' betrayal
 
 14
-00:01:01,090 --> 00:01:08,350
+00:01:02,090 --> 00:01:09,350
 Meant you never would be my wife
 
 15
-00:01:11,270 --> 00:01:13,270
+00:01:12,270 --> 00:01:14,270
 Harsh words were said
 
 16
-00:01:13,270 --> 00:01:15,980
+00:01:14,270 --> 00:01:16,980
 And lies were told instead
 
 17
-00:01:16,440 --> 00:01:21,650
+00:01:17,440 --> 00:01:22,650
 I didn't ever mean to make you cry
 
 18
-00:01:30,980 --> 00:01:34,490
-Ladies and gentlemen, good evening.
+00:02:12,230 --> 00:02:16,090
+Get your moccoletti!
+How 'bout a moccoletto!
 
 19
-00:01:35,060 --> 00:01:39,120
-At Luna's Carnival, I encountered an immature soul.
+00:02:20,870 --> 00:02:23,870
+Act 1:
+At Journey's End, We Meet
 
 20
-00:01:40,030 --> 00:01:45,580
-My friend said to me, "This shall be the prelude to my vengeance."
+00:02:36,150 --> 00:02:37,410
+Franz!
 
 21
-00:01:46,210 --> 00:01:48,900
-But this soul was too young and beautiful.
+00:02:38,320 --> 00:02:39,620
+Franz!
 
 22
-00:01:49,480 --> 00:01:53,840
-It is that alone which gives me cause for fear.
+00:02:40,820 --> 00:02:42,850
+Why, hello, Marquise!
 
 23
-00:01:59,970 --> 00:02:02,970
+00:02:45,960 --> 00:02:47,260
+When did you arrive on Luna?
+
+24
+00:02:47,360 --> 00:02:50,300
+I made a loop around the inner planets.
+I arrived only yesterday.
+
+25
+00:02:50,400 --> 00:02:54,160
+I see. You arrived just in time
+to catch the end of Carnival.
+
+26
+00:02:54,600 --> 00:02:56,570
+And by the way...
+Who is this?
+
+27
+00:02:56,670 --> 00:02:57,800
+Ma'am!
+
+28
+00:02:58,440 --> 00:03:01,170
+My traveling companion, as well as my best friend.
+
+29
+00:03:01,340 --> 00:03:03,470
+Viscount Albert de Morcerf.
+
+30
+00:03:04,610 --> 00:03:06,840
+I am pleased to make your acquaintance, Madame.
+
+31
+00:03:07,150 --> 00:03:10,840
+My... You're the son of General Morcerf.
+
+32
+00:03:10,950 --> 00:03:11,920
+Well, well...
+
+33
+00:03:13,520 --> 00:03:16,850
+Is this your first time on Luna?
+I suggest you enjoy yourself, then.
+
+34
+00:03:17,690 --> 00:03:21,630
+This is a city where all your desires can be fulfilled, no matter what they may be.
+
+35
+00:04:11,010 --> 00:04:13,570
+Apparently, he styles himself a count.
+
+36
+00:04:14,180 --> 00:04:15,240
+But I'm not so sure.
+
+37
+00:04:15,580 --> 00:04:19,780
+Regardless, Luna's high society has been abuzz with rumors about him this past month.
+
+38
+00:04:20,150 --> 00:04:25,070
+There are some who say that he's a nouveau riche who made his fortune on the frontier, or that he's an alien from outer space,
+
+39
+00:04:25,090 --> 00:04:28,620
+...or even that he's a monster
+in human form, or a vampire.
+
+40
+00:04:28,860 --> 00:04:30,490
+That might be going a little far...
+
+41
+00:04:30,830 --> 00:04:33,700
+Excuse me, but what is he called?
+
+42
+00:04:33,930 --> 00:04:35,930
+What is his name?
+
+43
+00:04:36,740 --> 00:04:39,400
+The Count of Monte Cristo.
+
+44
+00:05:06,670 --> 00:05:10,130
+"Death is certain, its hour uncertain."
+
+45
+00:06:51,040 --> 00:06:54,340
+Are you sure you weren't dreaming or something? Daydreaming or whatever?
+
+46
+00:06:54,440 --> 00:06:57,170
+Get serious. This proves that it was real.
+
+47
+00:06:59,580 --> 00:07:00,450
+And?
+
+48
+00:07:00,450 --> 00:07:02,970
+I'm gonna use it to make his acquaintance.
+To meet the Count.
+
+49
+00:07:03,080 --> 00:07:05,980
+Are you crazy?
+It's a huge hassle.
+
+50
+00:07:06,090 --> 00:07:09,150
+Don't do it. You have no idea
+who this guy really is.
+
+51
+00:07:11,430 --> 00:07:12,610
+You think so?
+
+52
+00:07:12,610 --> 00:07:13,440
+Sure I do!
+
+53
+00:07:13,090 --> 00:07:17,100
+Begging monsieur's pardon, but are you
+Viscount Morcerf from room 405?
+
+54
+00:07:17,300 --> 00:07:20,560
+Y-Yes.
+Yes, that's me.
+
+55
+00:07:21,240 --> 00:07:26,200
+I have a message from my master,
+the Count of Monte Cristo.
+
+56
+00:07:34,010 --> 00:07:36,110
+Well? What do you think?
+
+57
+00:07:36,650 --> 00:07:38,680
+What do I think of what?
+
+58
+00:07:39,250 --> 00:07:41,690
+Why would he want to talk to two complete strangers like us?
+
+59
+00:07:41,690 --> 00:07:46,820
+His note said that he wanted to establish friendly relations with fellow aristocrats who were staying in the same hotel, didn't it?
+
+60
+00:07:47,030 --> 00:07:48,390
+What a coincidence...
+
+61
+00:07:48,500 --> 00:07:49,930
+I'm not so sure.
+
+62
+00:07:50,030 --> 00:07:52,460
+There you go again.
+You're such a worrywart.
+
+63
+00:07:53,100 --> 00:07:55,230
+At least stay and have dinner with the man.
+
+64
+00:07:55,740 --> 00:07:58,600
+I have some doubts about whether this guy is even a real aristocrat.
+
+65
+00:07:58,770 --> 00:08:01,870
+This is Luna, remember?
+He's almost certainly a con-
+
+66
+00:08:16,790 --> 00:08:21,090
+How do you do, messieurs. I am called the Count of Monte Cristo.
+
+67
+00:08:21,330 --> 00:08:23,420
+Thank you for coming.
+
+68
+00:08:25,200 --> 00:08:26,960
+Come now, this won't do.
+
+69
+00:08:27,300 --> 00:08:31,200
+When a man has come all the way to Luna, he simply must try these dishes.
+
+70
+00:08:31,610 --> 00:08:34,970
+Are you sure? We're the only ones who are eating.
+
+71
+00:08:35,440 --> 00:08:38,280
+You haven't touched anything all through dinner.
+
+72
+00:08:38,280 --> 00:08:40,330
+Please, you needn't concern yourselves about me.
+
+73
+00:08:43,120 --> 00:08:48,080
+Just as journeys traveled alone are dull, daily meals eaten alone have no flavor.
+
+74
+00:08:49,320 --> 00:08:55,420
+For me, speaking with guests as I am now is the greatest feast I could wish for.
+
+75
+00:08:55,760 --> 00:08:57,860
+Please, help yourselves.
+
+76
+00:08:58,930 --> 00:09:02,390
+Incidentally, what did you think of the opera today?
+
+77
+00:09:03,300 --> 00:09:07,100
+Speaking for myself, I don't
+normally see operas very often,
+
+78
+00:09:07,770 --> 00:09:10,870
+...but I couldn't help being drawn into the story!
+
+79
+00:09:11,140 --> 00:09:12,340
+Oh, I see.
+
+80
+00:09:12,450 --> 00:09:15,010
+So, Monsieur Albert, are you saying that you have someone...
+
+81
+00:09:15,120 --> 00:09:17,910
+...whom you pine away for, just as in the play?
+
+82
+00:09:18,120 --> 00:09:19,110
+No, of course not!
+
+83
+00:09:19,620 --> 00:09:21,750
+Come on, 'fess up.
+
+84
+00:09:22,190 --> 00:09:25,780
+Eugenie and I were chosen for each other by our parents.
+
+85
+00:09:26,990 --> 00:09:31,560
+I've never been in love like the main character of that opera.
+
+86
+00:09:34,070 --> 00:09:35,970
+It's the same with everything else in my life.
+
+87
+00:09:36,170 --> 00:09:37,900
+Something that I can lose myself in.
+
+88
+00:09:38,040 --> 00:09:40,510
+Something that will grab my heart and never let go.
+
+89
+00:09:41,940 --> 00:09:45,840
+I set out on this journey to find that something.
+
+90
+00:09:48,100 --> 00:09:49,980
+Why are you trying to make it sound so noble?
+
+91
+00:09:49,980 --> 00:09:52,900
+As I recall, the goal of this little quest had more to do with what's below your waist.
+
+92
+00:09:52,900 --> 00:09:54,410
+Franz! Cut it out!
+
+93
+00:09:56,790 --> 00:09:59,990
+Oh, youth is a wonderful thing.
+
+94
+00:10:00,990 --> 00:10:06,520
+Endless possibilities. Hopes.
+And ardent passion.
+
+95
+00:10:07,470 --> 00:10:10,530
+Count, have you ever been in love like that?
+
+96
+00:10:13,070 --> 00:10:14,130
+I have.
+
+97
+00:10:14,240 --> 00:10:15,640
+What sort of woman was she?
+
+98
+00:10:15,740 --> 00:10:17,180
+Hey! Don't be rude!
+
+99
+00:10:17,280 --> 00:10:22,510
+To be honest, I, too, once had
+feelings for a certain woman.
+
+100
+00:10:24,790 --> 00:10:28,920
+As well as dreams of a future with this woman.
+
+101
+00:10:29,820 --> 00:10:31,380
+However...
+
+102
+00:10:31,660 --> 00:10:35,750
+...all of them ended as nothing more than dreams.
+
+103
+00:10:39,470 --> 00:10:43,370
+In short, those dreams were only dreams.
+
+104
+00:10:44,810 --> 00:10:49,770
+And in those dreams' stead stands the man that I have become.
+
+105
+00:10:54,680 --> 00:10:57,150
+Bertuccio!
+Coffee for our guests.
+
+106
+00:10:57,250 --> 00:10:58,270
+At once.
+
+107
+00:11:00,020 --> 00:11:02,780
+I thank you for the honor of your company tonight.
+
+108
+00:11:03,120 --> 00:11:04,890
+Not at all, sir!
+The honor was ours!
+
+109
+00:11:04,990 --> 00:11:11,330
+I would like you to join me for luncheon on my balcony tomorrow. What say you?
+
+110
+00:11:11,730 --> 00:11:13,460
+Really?
+We'd be honored to...
+
+111
+00:11:15,740 --> 00:11:17,530
+We're terribly sorry, Count.
+
+112
+00:11:17,870 --> 00:11:20,490
+We appreciate your kind offer, but we couldn't possibly accept.
+
+113
+00:11:20,510 --> 00:11:24,530
+Luna's public executions
+are the highlight of Carnival.
+
+114
+00:11:24,980 --> 00:11:28,040
+The festivities reach their peak as the blood of heinous criminals...
+
+115
+00:11:28,180 --> 00:11:30,150
+...washes away the crowd's sins.
+
+116
+00:11:30,370 --> 00:11:34,040
+One cannot speak of experiencing Luna's
+Carnival without having seen this spectacle.
+
+117
+00:11:34,050 --> 00:11:37,220
+Is that not so,
+Monsieur Albert?
+
+118
+00:11:37,320 --> 00:11:39,950
+Y-Yes, sir.
+You're exactly right, Count!
+
+119
+00:11:41,400 --> 00:11:45,230
+In that case, I shall await you here in this room again tomorrow.
+
+120
+00:11:45,530 --> 00:11:47,470
+Pleasant dreams to both of you.
+
+121
+00:11:53,770 --> 00:11:56,710
+Hey! Albert!
+
+122
+00:11:58,150 --> 00:11:58,940
+Yeah?
+
+123
+00:11:59,080 --> 00:12:02,010
+What's the matter?
+You don't look so good.
+
+124
+00:12:05,250 --> 00:12:10,160
+It was cold.
+His hand was as cold as ice...
+
+125
+00:12:11,530 --> 00:12:13,490
+It was like a corpse's hand...
+
+126
+00:12:19,510 --> 00:12:21,360
+Who are today's condemned?
+
+127
+00:12:21,570 --> 00:12:25,160
+One is a man who committed murder out of poverty.
+
+128
+00:12:25,370 --> 00:12:28,640
+One is a man who committed murder over a love affair.
+
+129
+00:12:28,810 --> 00:12:34,040
+And the third is a man who slaughtered an entire family to steal their possessions.
+
+130
+00:12:34,450 --> 00:12:37,880
+All three are heinous criminals who are beyond forgiveness.
+
+131
+00:12:40,320 --> 00:12:43,850
+I did it to feed my family!
+I had to!
+
+132
+00:12:44,830 --> 00:12:49,460
+My beloved wife and child, please forgive me!
+
+133
+00:12:50,300 --> 00:12:52,530
+Please, spare me...
+
+134
+00:12:54,130 --> 00:12:56,600
+Stop that!
+Stop it at once!
+
+135
+00:12:56,870 --> 00:13:02,310
+My Lord Cardinal!
+I didn't murder anyone!
+
+136
+00:13:02,940 --> 00:13:07,380
+My rival framed me!
+I'm innocent!
+
+137
+00:13:08,050 --> 00:13:10,540
+Please, undo these chains!
+
+138
+00:13:10,880 --> 00:13:13,510
+You have to believe me!
+
+139
+00:13:13,620 --> 00:13:17,110
+I bet they're just saying anything that might earn them a reprieve.
+
+140
+00:13:17,990 --> 00:13:22,520
+I didn't do it!
+I didn't do anything!
+
+141
+00:13:23,860 --> 00:13:26,060
+You moron!
+Shut your trap!
+
+142
+00:13:26,170 --> 00:13:28,630
+I'm sick of you and your damn whining!
+
+143
+00:13:30,870 --> 00:13:33,430
+As for me, I killed ten people!
+
+144
+00:13:34,340 --> 00:13:36,870
+Women and children,
+I killed 'em all!
+
+145
+00:13:37,610 --> 00:13:40,340
+How's that?! Live it up, you bastards!
+
+146
+00:13:40,850 --> 00:13:44,280
+C'mon! I wanna see some more happy faces out there!
+
+147
+00:13:51,660 --> 00:13:54,590
+Today's card is most entertaining.
+
+148
+00:13:54,730 --> 00:13:55,660
+What say you?
+
+149
+00:13:57,500 --> 00:14:00,330
+Why don't we have a bit of sport with this?
+
+150
+00:14:01,870 --> 00:14:04,840
+A sideshow to the execution, as it were.
+
+151
+00:14:05,440 --> 00:14:08,170
+I have here a single letter.
+
+152
+00:14:08,610 --> 00:14:12,670
+It is a letter of pardon that
+was given to me by the Cardinal.
+
+153
+00:14:12,780 --> 00:14:15,110
+How in the world did you get something like that?
+
+154
+00:14:17,120 --> 00:14:21,080
+Unfortunately, I have but this one letter of pardon.
+
+155
+00:14:21,890 --> 00:14:25,590
+To make the choice an impartial one,
+
+156
+00:14:25,690 --> 00:14:28,990
+...I have written the initials of one of the condemned men on each card.
+
+157
+00:14:29,600 --> 00:14:33,120
+Now, please choose one of them.
+
+158
+00:14:35,640 --> 00:14:39,590
+Come now, it's nothing more than a little game.
+
+159
+00:14:39,840 --> 00:14:41,100
+Just a minute, Count!
+
+160
+00:14:41,210 --> 00:14:44,610
+If that's the case, shouldn't we hear what they have to say first?!
+
+161
+00:14:45,480 --> 00:14:49,610
+My good Monsieur Franz, we are not judges.
+
+162
+00:14:49,850 --> 00:14:53,380
+Regardless of what we do, they are going to die.
+
+163
+00:14:53,590 --> 00:14:57,820
+I merely suggest that we make use of that fact in order to enjoy ourselves.
+
+164
+00:14:58,660 --> 00:15:03,390
+At this moment, we have in our hands the power to offer the hand of salvation to them.
+
+165
+00:15:04,500 --> 00:15:09,700
+Why do you hesitate to make
+use of that power to do good?
+
+166
+00:15:10,370 --> 00:15:15,770
+Yes, it almost feels as if one
+has become God, does it not?
+
+167
+00:15:18,040 --> 00:15:19,570
+What are you thinking?!
+
+168
+00:15:19,750 --> 00:15:23,380
+You're using people's lives as a game?! You're crazy!
+
+169
+00:15:23,620 --> 00:15:25,740
+Come on, let's go.
+Albert!
+
+170
+00:15:25,850 --> 00:15:28,980
+A game?
+Yes, it is a game.
+
+171
+00:15:29,520 --> 00:15:34,980
+Our own lives are pieces that are toyed with as part of someone else's game.
+
+172
+00:15:37,100 --> 00:15:40,400
+Has it ever seemed that way to you?
+
+173
+00:15:40,900 --> 00:15:42,770
+I wouldn't know.
+
+174
+00:15:43,700 --> 00:15:44,670
+Let's go!
+Come on!
+
+175
+00:15:44,770 --> 00:15:48,500
+I was of the opinion that you and
+I would be friends, Monsieur Albert.
+
+176
+00:15:49,640 --> 00:15:51,440
+This is most disappointing.
+
+177
+00:15:53,280 --> 00:15:57,150
+You set out on your journey in order to find something.
+
+178
+00:15:58,750 --> 00:16:03,660
+To find and grab hold of a new you.
+Through the exertion of your own will.
+
+179
+00:16:03,920 --> 00:16:05,820
+Come on, Albert, let's go!
+
+180
+00:16:09,730 --> 00:16:10,920
+Albert!
+
+181
+00:16:16,870 --> 00:16:19,500
+I'll... I'll do it!
+
+182
+00:16:19,870 --> 00:16:22,100
+Don't do it!
+You'll be sorry you did!
+
+183
+00:16:23,240 --> 00:16:26,410
+It's just a game.
+Isn't it, Count?
+
+184
+00:16:27,050 --> 00:16:30,480
+No! No!
+
+185
+00:16:41,030 --> 00:16:42,190
+Albert...
+
+186
+00:16:44,000 --> 00:16:45,520
+No!
+
+187
+00:16:53,310 --> 00:16:54,270
+Albert!
+
+188
+00:17:09,060 --> 00:17:11,550
+A pardon has been issued by the Cardinal!
+
+189
+00:17:12,160 --> 00:17:14,060
+The condemned man who is to be pardoned is...
+
+190
+00:17:14,530 --> 00:17:17,760
+...Rocca Briori,
+also known as Peppino!
+
+191
+00:17:27,510 --> 00:17:29,130
+How do ya like that?!
+
+192
+00:17:29,380 --> 00:17:31,100
+Thank you!
+Thanks oh so much!
+
+193
+00:17:31,310 --> 00:17:34,180
+Long live His Excellency the Cardinal!
+
+194
+00:17:37,720 --> 00:17:41,590
+Monsieur Albert, you have done a good deed.
+
+195
+00:17:42,590 --> 00:17:44,490
+Truly a good deed.
+
+196
+00:17:45,190 --> 00:17:47,490
+Now, the show is beginning.
+
+197
+00:17:48,700 --> 00:17:51,290
+Kill him! Kill him!
+
+198
+00:17:51,430 --> 00:17:53,700
+Kill him! Kill him!
+
+199
+00:17:55,370 --> 00:17:59,130
+You mustn't look away,
+Monsieur Albert.
+
+200
+00:17:59,670 --> 00:18:00,900
+Not for an instant.
+
+201
+00:18:01,010 --> 00:18:03,700
+Kill! Kill! Kill!
+
+202
+00:18:32,970 --> 00:18:35,810
+Don't hold back,
+Baptistin.
+
+203
+00:18:36,210 --> 00:18:38,070
+Please forgive me.
+
+204
+00:18:38,950 --> 00:18:41,350
+My vengeance...
+
+205
+00:18:41,350 --> 00:18:44,110
+...is now set in motion.
+
+206
+00:18:45,150 --> 00:18:48,310
+Hey, let's go to a cafe or something to clear our heads.
+
+207
+00:18:49,490 --> 00:18:51,620
+Or how about hitting the red-light district?
+
+208
+00:18:52,860 --> 00:18:56,690
+Oh, right. I forgot. Sorry about that.
+You hate that sort of thing, don't you?
+
+209
+00:18:57,230 --> 00:18:59,030
+I guess there's always the casino...
+
+210
+00:18:59,130 --> 00:19:01,290
+Please, don't talk to me about gambling!
+
+211
+00:19:02,370 --> 00:19:04,390
+What's gotten into you?
+
+212
+00:19:08,210 --> 00:19:10,940
+You were the one who was dying to see it in the first place.
+
+213
+00:19:11,480 --> 00:19:14,280
+And then you let the Count talk you into...
+
+214
+00:19:14,380 --> 00:19:15,350
+I know that!
+
+215
+00:19:15,450 --> 00:19:17,710
+I know that!
+I know all that!
+
+216
+00:19:18,590 --> 00:19:24,720
+"I brought this on my own head, and that's why I'm angry! I'm angry at myself!" Right?
+
+217
+00:19:25,390 --> 00:19:28,160
+You're always fussing over me!
+
+218
+00:19:28,490 --> 00:19:31,260
+Are you my girlfriend?
+Are you my mother?!
+
+219
+00:19:31,360 --> 00:19:32,590
+Are you?
+
+220
+00:19:37,470 --> 00:19:39,900
+I'm going back to the hotel to get ready for the ball.
+
+221
+00:19:40,640 --> 00:19:42,510
+What about you?
+
+222
+00:20:06,770 --> 00:20:08,100
+You alone?
+
+223
+00:20:08,970 --> 00:20:13,930
+Tonight is the last night of Carnival.
+You shouldn't be alone on a night like this.
+
+224
+00:20:16,010 --> 00:20:20,410
+I want to be alone.
+Today was the worst day of my life.
+
+225
+00:20:46,240 --> 00:20:47,800
+Albert...
+
+226
+00:21:13,530 --> 00:21:17,090
+Hey, don't be in such a rush...
+
+227
+00:21:27,580 --> 00:21:29,100
+Are you going to come?
+
+228
+00:21:52,650 --> 00:21:58,700
+I'm not the man I used to be
+
+229
+00:22:01,080 --> 00:22:09,420
+And what you see is not what it seems
+
+230
+00:22:09,500 --> 00:22:16,010
+I traveled through space to be with you here
+
+231
+00:22:18,010 --> 00:22:24,640
+What you don't know, you shouldn't fear
+
+232
+00:22:30,730 --> 00:22:32,860
+You won't see me coming...
+
+233
+00:22:39,240 --> 00:22:41,370
+You won't see me coming...
+
+234
+00:22:42,780 --> 00:22:44,370
+Till I strike
+
+235
+00:22:56,130 --> 00:22:58,260
+You won't see me coming...
+
+236
+00:23:04,680 --> 00:23:06,770
+You won't see me coming...
+
+237
+00:23:08,270 --> 00:23:09,900
+Till I strike
+
+238
+00:23:11,820 --> 00:23:14,650
+A passing fling on Luna.
+It was a trap set by bandits.
+
+239
+00:23:15,220 --> 00:23:17,280
+Moment by moment, the hour of death approaches.
+
+240
+00:23:17,960 --> 00:23:18,460
+Next time on Gankutsuou,
+The Count of Monte Cristo, act 2:
+
+241
+00:23:18,460 --> 00:23:20,490
+Next time on Gankutsuou,
+The Count of Monte Cristo, act 2:
+
+242
+00:23:18,540 --> 00:23:21,540
 Act 2:
 Until the Sun Rises Over the Moon
 
-24
-00:02:15,130 --> 00:02:16,260
-Are you going to come?
-
-25
-00:02:17,540 --> 00:02:21,200
-That's enough fun and games, boy.
-
-26
-00:02:40,790 --> 00:02:43,280
-I heard you met him the other day.
-
-27
-00:02:46,630 --> 00:02:48,530
-Are you bored?
-
-28
-00:02:49,300 --> 00:02:51,700
-Not at all. It's a wonderful party, don't you think?
-
-29
-00:02:52,770 --> 00:02:54,100
-Where is your friend?
-
-30
-00:02:54,210 --> 00:02:55,470
-Oh, you mean Albert?
-
-31
-00:02:56,240 --> 00:02:59,800
-He's probably out trying to pick up girls, and getting turned down by every one of them.
-
-32
-00:02:59,910 --> 00:03:02,880
-But this is terrible!
-This is Luna!
-
-33
-00:03:03,080 --> 00:03:06,310
-Strolling around alone at
-night is tantamount to suicide!
-
-34
-00:03:06,420 --> 00:03:07,680
-Surely you're exaggerating...
-
-35
-00:03:07,790 --> 00:03:12,820
-It's no laughing matter.
-You'll get kidnapped by Luigi Vampa!
-
-36
-00:03:13,590 --> 00:03:15,030
-Luigi Vampa?
-
-37
-00:03:15,400 --> 00:03:17,330
-He's an up-and-coming bandit!
-
-38
-00:03:17,630 --> 00:03:20,100
-They say that he drags his victims into the catacombs,
-
-39
-00:03:20,200 --> 00:03:22,860
-...tortures them, and finally kills them!
-
-40
-00:03:23,000 --> 00:03:24,330
-How horrible!
-
-41
-00:03:24,600 --> 00:03:26,770
-Surely the police won't stand by and do nothing.
-
-42
-00:03:26,840 --> 00:03:28,270
-You don't know?
-
-43
-00:03:28,610 --> 00:03:32,440
-The police on Luna arrange their patrols to avoid the bandits.
-
-44
-00:03:34,750 --> 00:03:39,380
-My very own cousin was robbed blind, had his arms and legs broken,
-
-45
-00:03:39,490 --> 00:03:42,450
-...and was left stark naked in the plaza!
-
-46
-00:03:42,590 --> 00:03:45,560
-All because he spoke to the bandit's mistress!
-
-47
-00:03:45,990 --> 00:03:50,190
-I'm sure he's fine. I bet that he's back at your hotel at this very moment.
-
-48
-00:03:50,530 --> 00:03:51,900
-Would you care to dance?
-
-49
-00:03:56,200 --> 00:03:59,430
-I simply despise when a party ends.
-
-50
-00:03:59,970 --> 00:04:04,100
-First one guest leaves, then two.
-Especially at this hour.
-
-51
-00:04:04,940 --> 00:04:08,610
-You won't abandon me, will you?
-
-52
-00:04:44,820 --> 00:04:46,220
-Take him away.
-
-53
-00:04:56,800 --> 00:05:00,730
-You can't! It's mean!
-Today is my birthday!
-
-54
-00:05:01,470 --> 00:05:04,930
-I'm sorry, Franz.
-I have to go.
-
-55
-00:05:05,040 --> 00:05:06,500
-No, no, no!
-
-56
-00:05:06,610 --> 00:05:10,010
-Your father is leaving to see to some very important business.
-
-57
-00:05:10,340 --> 00:05:13,240
-Fine, see if I care! I hope you never come back!
-
-58
-00:05:23,960 --> 00:05:25,420
-Father...
-
-59
-00:05:32,500 --> 00:05:34,860
-Oh, I'm sorry.
-Did I keep you waiting long?
-
-60
-00:05:35,330 --> 00:05:37,860
-I... think I should go.
-
-61
-00:05:44,340 --> 00:05:47,310
-Are you Baron
-Franz d'Epinay?
-
-62
-00:05:50,380 --> 00:05:51,450
-Hey, you're that...
-
-63
-00:05:51,450 --> 00:05:52,920
-I'm sick of your whining!
-
-64
-00:05:54,590 --> 00:05:57,560
-As for me, I killed ten people!
-
-65
-00:06:00,360 --> 00:06:01,590
-This is for you.
-
-66
-00:06:03,700 --> 00:06:05,390
-"My Lord Baron
-Franz d'Epinay."
-
-67
-00:06:06,030 --> 00:06:12,230
-"I, Luigi Vampa, have taken custody of your friend, the Viscount Albert Morcerf."
-
-68
-00:06:12,770 --> 00:06:17,180
-"Hand over the sum of 50 million ducats to my messenger immediately."
-
-69
-00:06:17,540 --> 00:06:20,340
-"If the messenger should not return by sunrise,
-
-70
-00:06:20,450 --> 00:06:24,040
-"...although it pains me to do so, think of your friend's life as forfeit."
-
-71
-00:06:24,320 --> 00:06:25,220
-Where is Albert?!
-
-72
-00:06:25,320 --> 00:06:30,220
-He's a valuable hostage, so we're taking real good care of him.
-
-73
-00:06:30,390 --> 00:06:35,020
-If the money is handed over, he'll be sent home without so much as a scratch.
-
-74
-00:06:35,130 --> 00:06:38,320
-You should have died!
-Is this how you people do things?
-
-75
-00:06:40,500 --> 00:06:43,160
-Even I have a certain lifestyle to maintain.
-
-76
-00:06:43,270 --> 00:06:44,860
-50 million is absurd!
-
-77
-00:06:45,470 --> 00:06:49,200
-I'm sure that a Parisian aristocrat won't be hard pressed to come up with such a sum.
-
-78
-00:06:50,080 --> 00:06:52,440
-Dawn comes fast on Luna.
-
-79
-00:06:52,680 --> 00:06:54,910
-If you value your friend's life,
-
-80
-00:06:55,010 --> 00:06:57,540
-...I suggest that you make arrangements for the money as soon as possible.
-
-81
-00:06:59,390 --> 00:07:02,550
-I want to make an immediate withdrawal from the Bank of Paris!
-
-82
-00:07:02,660 --> 00:07:04,150
-I'm terribly sorry, sir,
-
-83
-00:07:04,260 --> 00:07:09,350
-...but our connection to Europe is currently offline due to solar winds.
-
-84
-00:07:09,960 --> 00:07:11,430
-Isn't there anything you can do?!
-
-85
-00:07:12,160 --> 00:07:13,430
-How much does sir require?
-
-86
-00:07:41,530 --> 00:07:44,090
-Albert... Damn!
-
-87
-00:07:45,330 --> 00:07:50,130
-Say, son, it's awfully sad to see a young fella like yourself all alone on the last night of Carnival.
-
-88
-00:07:50,500 --> 00:07:53,900
-If you want, I know a fine girl who...
-
-89
-00:07:54,010 --> 00:07:55,940
-Please, just be quiet and drive.
-
-90
-00:07:58,140 --> 00:08:02,140
-It was at my father's funeral that I first met Albert...
-
-91
-00:08:23,400 --> 00:08:24,930
-Don't cry.
-
-92
-00:08:25,040 --> 00:08:26,400
-I'm not crying...
-
-93
-00:08:26,770 --> 00:08:28,360
-I'll play with you, so cheer up.
-
-94
-00:08:28,470 --> 00:08:30,500
-Leave me alone!
-Get lost!
-
-95
-00:08:37,050 --> 00:08:38,710
-Hey...
-
-96
-00:08:42,350 --> 00:08:46,690
-Ever since that day, Albert
-and I have been inseparable.
-
-97
-00:08:57,970 --> 00:09:00,230
-Damn! What am I going to do?
-
-98
-00:09:18,220 --> 00:09:20,320
-It's almost sunrise!
-
-99
-00:09:21,730 --> 00:09:24,390
-Have you raised the money yet?
-
-100
-00:09:24,500 --> 00:09:25,400
-Give me more time!
-
-101
-00:09:25,500 --> 00:09:27,860
-Once it's morning, I'll have the money transferred from Paris!
-
-102
-00:09:27,970 --> 00:09:32,600
-I'm sorry, Luigi is a stickler for punctuality.
-
-103
-00:09:32,710 --> 00:09:38,230
-If you don't have the money ready by sunrise, your friend is a goner.
-
-104
-00:09:38,340 --> 00:09:39,680
-Stop messing with me!
-
-105
-00:09:40,010 --> 00:09:41,710
-I suggest that you hurry.
-
-106
-00:09:42,350 --> 00:09:47,010
-I'm sure that you don't want to see your friend die a horrible death, My Lord Baron.
-
-107
-00:09:47,290 --> 00:09:48,310
-You bastard!
-
-108
-00:09:51,890 --> 00:09:55,120
-Violence is unseemly,
-My Lord Baron.
-
-109
-00:09:56,730 --> 00:09:57,860
-Damn it!
-
-110
-00:09:59,830 --> 00:10:04,790
-Yeah, that's better. A gentleman has
-to worry about little things like discretion.
-
-111
-00:10:13,850 --> 00:10:18,370
-There is no more fascinating spectacle than a man's death.
-
-112
-00:10:18,680 --> 00:10:25,280
-Yes, it almost feels as if one has become God, does it not?
-
-113
-00:10:28,690 --> 00:10:31,190
-His Excellency, the Baron d'Epinay.
-
-114
-00:10:33,330 --> 00:10:36,630
-I'm sorry to disturb you at such an hour...
-
-115
-00:10:37,440 --> 00:10:42,740
-Is something the matter?
-You do not seem entirely well.
-
-116
-00:10:45,440 --> 00:10:47,780
-Count! I have a favor to ask of you!
-
-117
-00:10:59,690 --> 00:11:01,060
-What's the big idea?!
-
-118
-00:11:01,890 --> 00:11:03,730
-There is your
-50 million ducats.
-
-119
-00:11:03,960 --> 00:11:06,760
-Now, you will take us to the hostage.
-
-120
-00:11:20,850 --> 00:11:22,210
-To the Colosseum!
-
-121
-00:11:32,930 --> 00:11:36,660
-Have the two of you been friends for a long time?
-
-122
-00:11:37,360 --> 00:11:41,300
-Yes, we've been best friends since we were children.
-
-123
-00:11:42,270 --> 00:11:44,790
-Ah, so you are childhood friends.
-
-124
-00:11:45,970 --> 00:11:47,630
-Constant friendship...
-
-125
-00:11:49,840 --> 00:11:51,940
-It is a wonderful thing, is it not?
-
-126
-00:11:56,180 --> 00:11:58,580
-Who do you like?
-C'mon, tell me!
-
-127
-00:11:58,680 --> 00:12:00,550
-At least give me a hint!
-
-128
-00:12:01,350 --> 00:12:03,550
-You wouldn't understand.
-
-129
-00:12:14,330 --> 00:12:15,430
-Luigi.
-
-130
-00:12:16,900 --> 00:12:18,840
-It's almost time.
-
-131
-00:12:23,410 --> 00:12:24,810
-Kill him.
-
-132
-00:12:28,380 --> 00:12:30,310
-So, have you made your peace?
-
-133
-00:12:31,180 --> 00:12:33,550
-C'mon, ma'am, let me kill him!
-
-134
-00:12:33,650 --> 00:12:34,740
-No, let me!
-
-135
-00:12:34,850 --> 00:12:36,340
-Oh, give it a rest, you two!
-
-136
-00:12:36,460 --> 00:12:39,080
-You can carve him up as much
-as you want after he's dead.
-
-137
-00:12:39,730 --> 00:12:44,590
-Now, then. You should put up a brave front while you still can.
-
-138
-00:12:44,930 --> 00:12:47,800
-I wonder what you'll sound like when you cry?
-
-139
-00:12:54,170 --> 00:12:56,000
-H-Hey, guys.
-
-140
-00:12:56,740 --> 00:13:00,580
-Um... Visitors to see the boss.
-
-141
-00:13:01,810 --> 00:13:03,540
-Who are they?
-
-142
-00:13:12,620 --> 00:13:14,490
-Please, Teresa, don't!
-
-143
-00:13:14,690 --> 00:13:16,720
-We can't kill him yet!
-
-144
-00:13:17,260 --> 00:13:19,200
-B-Because we won't get the money!
-
-145
-00:13:19,470 --> 00:13:22,560
-And besides... There's still a little time.
-
-146
-00:13:22,670 --> 00:13:23,790
-Stand aside!
-
-147
-00:13:23,900 --> 00:13:25,560
-If you're going to use that, use it on me!
-
-148
-00:13:25,970 --> 00:13:28,340
-Squabbling among yourselves is pathetic!
-
-149
-00:13:29,070 --> 00:13:30,940
-Thank you.
-Stand back.
-
-150
-00:13:31,180 --> 00:13:33,080
-Are you trying to disgrace the boss?
-
-151
-00:13:33,650 --> 00:13:35,580
-I'll be fine. Go.
-
-152
-00:13:40,390 --> 00:13:43,010
-So, does that mean you've fallen for that girl?
-
-153
-00:13:45,190 --> 00:13:47,090
-That's so sweet...
-
-154
-00:13:47,490 --> 00:13:51,430
-But she's too much for you to handle, little boy.
-
-155
-00:13:53,600 --> 00:13:57,800
-Or maybe... you'd rather become one of us?
-
-156
-00:14:01,770 --> 00:14:04,500
-You know, I think I'll brand you...
-
-157
-00:14:12,320 --> 00:14:13,750
-Why, you...
-
-158
-00:14:14,920 --> 00:14:16,050
-Leave her alone!
-
-159
-00:14:41,150 --> 00:14:46,050
-I have come to meet with Signor Luigi Vampa, whose reputation is notorious on Luna.
-
-160
-00:14:46,350 --> 00:14:47,720
-And who are you?
-
-161
-00:14:49,490 --> 00:14:53,150
-My name is... Gankutsuou.
-
-162
-00:14:54,360 --> 00:14:57,330
-T-The King of the Cave?!
-
-163
-00:14:58,160 --> 00:15:01,220
-For one such as yourself who dwells in the darkness,
-
-164
-00:15:01,630 --> 00:15:04,160
-...I expect that I am better known by that name.
-
-165
-00:15:04,870 --> 00:15:08,670
-I have your money.
-Now, hand over the hostage.
-
-166
-00:15:09,110 --> 00:15:11,340
-I'm sorry, but you missed the deadline.
-
-167
-00:15:12,680 --> 00:15:15,480
-"Always be punctual," that's my motto.
-
-168
-00:15:16,320 --> 00:15:20,840
-"Punctuality is the politeness of kings," is that it?
-
-169
-00:15:21,490 --> 00:15:26,950
-I'm deeply honored... by your gracious words!
-
-170
-00:15:41,070 --> 00:15:44,170
-I see... Your skill is impressive.
-
-171
-00:15:45,810 --> 00:15:49,250
-But you cannot kill me.
-
-172
-00:15:50,980 --> 00:15:54,210
-A-Are you...
-Are you really...
-
-173
-00:15:55,250 --> 00:15:58,310
-A-Are you really him?!
-
-174
-00:15:59,990 --> 00:16:02,150
-I do not work for the authorities.
-
-175
-00:16:06,570 --> 00:16:09,970
-If you would do me the honor of returning my friend,
-
-176
-00:16:10,300 --> 00:16:11,530
-...all will be well.
-
-177
-00:16:22,310 --> 00:16:24,280
-You aren't injured, I take it?
-
-178
-00:16:25,680 --> 00:16:29,680
-I had a feeling that you would come to rescue me.
-
-179
-00:16:30,620 --> 00:16:34,110
-If you wish to thank someone,
-thank the good Baron d'Epinay.
-
-180
-00:16:34,890 --> 00:16:37,890
-He was gravely concerned for your wellbeing.
-
-181
-00:16:44,070 --> 00:16:45,660
-Hey! Miss!
-
-182
-00:16:46,100 --> 00:16:47,230
-Are you okay?
-
-183
-00:16:49,110 --> 00:16:54,170
-Say, I never asked you what your name was...
-
-184
-00:16:56,780 --> 00:17:01,150
-I'm Albert.
-Albert de Morcerf.
-
-185
-00:17:01,690 --> 00:17:03,680
-I'm Peppo.
-
-186
-00:17:15,570 --> 00:17:21,700
-To tell you the truth, I was almost considering throwing in my lot with the bandits.
-
-187
-00:17:24,180 --> 00:17:26,200
-I'm glad you're all right, Albert.
-
-188
-00:17:26,750 --> 00:17:29,110
-What took you so long, Franz?
-
-189
-00:17:30,350 --> 00:17:33,650
-I came this close to being killed, you know!
-
-190
-00:17:38,660 --> 00:17:40,990
-I was seriously...
-
-191
-00:17:48,700 --> 00:17:50,670
-What was that for?
-
-192
-00:17:54,770 --> 00:17:57,500
-Please, do not concern yourselves over the matter.
-
-193
-00:17:57,640 --> 00:18:00,940
-It served as a pleasant diversion for me.
-
-194
-00:18:01,050 --> 00:18:03,040
-But I have to do something to repay you.
-
-195
-00:18:03,180 --> 00:18:08,480
-In that case, might I ask one favor of you?
-
-196
-00:18:09,760 --> 00:18:11,620
-Anything at all!
-Just name it!
-
-197
-00:18:12,120 --> 00:18:16,860
-I should like to take up
-residence in Paris at some point.
-
-198
-00:18:17,500 --> 00:18:18,930
-That's wonderful!
-
-199
-00:18:19,830 --> 00:18:24,600
-However, a rustic aristocrat such as myself has no connections in Paris.
-
-200
-00:18:25,140 --> 00:18:30,400
-As such, might I impose on you to act as my intermediary into Parisian society?
-
-201
-00:18:30,640 --> 00:18:32,080
-Think nothing of it!
-
-202
-00:18:33,810 --> 00:18:40,010
-In that case, I shall call on you on
-May 22nd, three months from this day,
-
-203
-00:18:40,350 --> 00:18:43,980
-...to commemorate the events of this day.
-
-204
-00:18:46,930 --> 00:18:48,860
-Where in the world did you find this?
-
-205
-00:18:48,990 --> 00:18:51,550
-I found it.
-At the opera house.
-
-206
-00:18:52,000 --> 00:18:53,430
-Oh, so that is where it was!
-
-207
-00:18:53,770 --> 00:18:57,460
-It shames me to say it,
-but I have looked everywhere for it.
-
-208
-00:18:57,740 --> 00:19:00,170
-This, too, shows that there is some bond between us.
-
-209
-00:19:00,370 --> 00:19:04,000
-Please accept it with my gratitude.
-
-210
-00:19:04,180 --> 00:19:07,080
-Think of it as a small token of our friendship.
-
-211
-00:19:07,950 --> 00:19:09,240
-Really?
-
-212
-00:19:09,580 --> 00:19:12,480
-It will serve to freeze the memory of this day, this hour, in time.
-
-213
-00:19:12,820 --> 00:19:15,410
-A memory which belongs to us alone.
-
-214
-00:19:16,960 --> 00:19:19,790
-Thank you so much!
-I'll cherish it!
-
-215
-00:19:20,260 --> 00:19:25,820
-Carnival has ended, so what are your plans now?
-
-216
-00:19:26,330 --> 00:19:30,500
-We're going to cut our trip short and take the evening shuttle back to Paris.
-
-217
-00:19:30,700 --> 00:19:35,230
-Hey, wait a minute!
-I've already made plans of my own!
-
-218
-00:19:35,770 --> 00:19:39,730
-You never learn, do you?
-And what "plans" might these be?
-
-219
-00:19:40,280 --> 00:19:43,540
-What do you mean?
-It's none of your business.
-
-220
-00:19:45,350 --> 00:19:48,150
-Have you arranged a rendezvous, perhaps?
-
-221
-00:19:49,150 --> 00:19:50,710
-Sort of...
-
-222
-00:19:51,260 --> 00:19:54,160
-Love is a wonderful thing.
-
-223
-00:19:54,960 --> 00:19:58,900
-However, perhaps you have not noticed yet.
-
-224
-00:19:59,230 --> 00:20:03,170
-Or perhaps you knew, and
-arranged the rendezvous regardless.
-
-225
-00:20:03,600 --> 00:20:06,370
-I do hate to be the bearer of bad tidings, but...
-
-226
-00:20:11,540 --> 00:20:12,740
-A boy?
-
-227
-00:20:13,150 --> 00:20:14,670
-She's a boy?!
-
-228
-00:20:17,380 --> 00:20:19,680
-Come out and say it! You think
-I'm an idiot, don't you?!
-
-229
-00:20:19,790 --> 00:20:20,840
-Not really.
-
-230
-00:20:20,990 --> 00:20:24,080
-You're always looking down on me, laughing at me on the inside!
-
-231
-00:20:26,960 --> 00:20:28,480
-I'm not laughing at you!
-
-232
-00:20:28,890 --> 00:20:32,420
-If I laughed at every boneheaded stunt you pulled, I'd bust a gut!
-
-233
-00:20:33,400 --> 00:20:35,230
-Anyway, you were...
-
-234
-00:20:38,400 --> 00:20:39,840
-Thanks.
-
-235
-00:20:40,670 --> 00:20:42,400
-I owe you my life.
-
-236
-00:20:45,080 --> 00:20:46,980
-I appreciate it.
-
-237
-00:21:02,530 --> 00:21:07,660
-The fruits of betrayal must
-be plucked from the tree...
-
-238
-00:21:51,650 --> 00:21:57,700
-I'm not the man I used to be.
-
-239
-00:22:00,080 --> 00:22:08,420
-And what you see is not what it seems.
-
-240
-00:22:08,500 --> 00:22:15,010
-I traveled through space to be with you.
-
-241
-00:22:17,010 --> 00:22:23,640
-What you don't know, you shouldn't fear.
-
-242
-00:22:29,730 --> 00:22:31,860
-You won't see me coming,
-
 243
-00:22:38,240 --> 00:22:40,370
-you won't see me coming
+00:23:20,490 --> 00:23:21,460
+..."Until the Sun
+Rises Over the Moon".
 
 244
-00:22:41,780 --> 00:22:43,370
-till I strike!
+00:23:21,460 --> 00:23:22,390
+..."Until the Sun
+Rises Over the Moon".
 
 245
-00:22:55,130 --> 00:22:57,260
-You won't see me coming,
-
-246
-00:23:03,680 --> 00:23:05,770
-you won't see me coming
-
-247
-00:23:07,270 --> 00:23:08,900
-till I strike!
-
-248
-00:23:10,860 --> 00:23:15,790
-At long last, the appointed day arrives.
-He comes to Paris along with a summer storm.
-
-249
-00:23:16,660 --> 00:23:19,160
-Next time on Gankutsuou,
-The Count of Monte Cristo, act 3,
-
-250
-00:23:17,160 --> 00:23:20,160
-Act 3:
-5/22, Stormy
-
-251
-00:23:19,160 --> 00:23:21,390
-..."5/22, Stormy".
-
-252
-00:23:21,530 --> 00:23:23,560
+00:23:22,700 --> 00:23:24,720
 Bide your time, and hold out hope!
